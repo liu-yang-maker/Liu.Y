@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区中关村，邮编000000</b></p>
     </td>
     <td width="25%">
-      <img src="./image/person-pic.jpg" width="100%">      % 插入证件照代码
+      <img src="person-pic.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
