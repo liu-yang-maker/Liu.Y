@@ -8,7 +8,7 @@
       <p><b>地址：北京市海淀区中关村，邮编000000</b></p>
     </td>
     <td width="25%">
-      <img src="person-pic.png" width="100%">      % 插入证件照代码
+      <img src="person-pic.png" width="100%">      % 假装是证件照
     </td>
   </tr>
 </table>
@@ -33,40 +33,50 @@ Chinese Academy of Sciences
 
 ### Education
 
-B.S.
+ - Ph.D. Mathematics, ? – ?, Academy of Mathematics and Systems Science
+
+  Advisor: Professor Chao Ding
+
+ - M.A. Mathematics, 2020 – ?, Academy of Mathematics and Systems Science
+
+   Advisor: Professor Chao Ding
+
+ - Exchange Student Mathematics, 2019, Michigan State University
+ - Exchange  Student Mathematics , 2018, University of Alberta
+ - B.S. Mathematics, 2016 – 2020, Xian Jiaotong University
 
 ### Research Interests
 
+- Matrix Optimization with applications
+- Big Data Optimization
+- Optimization in machine learning and deep learning
+- ...
+
 ### Experience
+
+- 新东方(西安), Data Analyst, 2019
+- 共识资本, Data Analyst, 2020
+- Xiaomi, Data Analyst-Financial quantification, 2021
+- ...
 
 ### Activities
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Chairman of the Student Union, School of Mathematical Sciences, Chinese Academy of Sciences, 2020-2021
 
-```markdown
-Syntax highlighted code block
+- Datawhale Member 
+  - [unusual-deep-learning](https://github.com/datawhalechina/unusual-deep-learning)
+  - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)
+- ...
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
 
-- Bulleted
-- List
+- ...
 
-1. Numbered
-2. List
+# Grants
 
-**Bold** and _Italic_ and `Code` text
+- ...
 
-[Link](url) and ![Image](src)
-```
+# Codes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- ...
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liu-yang-maker/Liu.Y/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
