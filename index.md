@@ -35,7 +35,7 @@ Chinese Academy of Sciences
 
  - Ph.D. Mathematics, ? – ?, Academy of Mathematics and Systems Science
 
-  Advisor: Professor Chao Ding
+   Advisor: Professor Chao Ding
 
  - M.A. Mathematics, 2020 – ?, Academy of Mathematics and Systems Science
 
