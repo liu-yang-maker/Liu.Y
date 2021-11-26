@@ -1,12 +1,21 @@
-# Welcome to GitHub Pages
+# Welcome to Liu.Y's Web Page
 
-You can use the [editor on GitHub](https://github.com/liu-yang-maker/Liu.Y/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can contact him if you are interest via [Zhihu]{https://www.zhihu.com/people/ming-ren-19-34} or Email: liuyang2020@amss.ac.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## About
 
+Student 
+
+Institute of Applied Mathematics
+
+Academy of Mathematics and Systems Science
+
+Chinese Academy of Sciences
+
 ### Education
+
+B.S.
 
 ### Research Interests
 
