@@ -18,7 +18,7 @@
 
 # Welcome to Liu.Y's Web Page
 
-You can contact me if you are interested via [Zhihu](https://www.zhihu.com/people/ming-ren-19-34}) or Email: liuyang2020@amss.ac.cn
+You can contact me if you are interested via [Zhihu](https://www.zhihu.com/people/ming-ren-19-34) or Email: liuyang2020@amss.ac.cn
 
 
 ## About
