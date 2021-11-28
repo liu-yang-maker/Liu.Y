@@ -65,6 +65,7 @@ Chinese Academy of Sciences
 
 - Datawhale Member 
   - [unusual-deep-learning](https://github.com/datawhalechina/unusual-deep-learning)
+  - [Pages of unusual-deep-learning](https://datawhalechina.github.io/unusual-deep-learning)
   - [Video of unusual-deep-learning](https://www.bilibili.com/video/BV1iq4y197L4?spm_id_from=333.999.0.0)
   - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)
   - [Video of thorough-pytorch](https://www.bilibili.com/video/BV1L44y1472Z?spm_id_from=333.999.0.0)
