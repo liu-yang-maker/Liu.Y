@@ -12,10 +12,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
 # Welcome to Liu.Y's Web Page
 
 You can contact me if you are interested via [Zhihu](https://www.zhihu.com/people/ming-ren-19-34) or Email: liuyang2020@amss.ac.cn
@@ -50,7 +46,7 @@ Chinese Academy of Sciences
 - Matrix Optimization with applications
 - Big Data Optimization
 - Optimization in machine learning and deep learning
-- ...
+- Optimization in statistics
 
 ### Experience
 
@@ -69,6 +65,9 @@ Chinese Academy of Sciences
   - [Video of unusual-deep-learning](https://www.bilibili.com/video/BV1iq4y197L4?spm_id_from=333.999.0.0)
   - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)
   - [Video of thorough-pytorch](https://www.bilibili.com/video/BV1L44y1472Z?spm_id_from=333.999.0.0)
+  - [big-data](https://github.com/shenhao-stu/Big-Data)
+  - [Pages of big-data](https://shenhao-stu.github.io/Big-Data)
+  - [matrix-analysis](https://github.com/datawhalechina/team-learning-data-mining/tree/master/MatrixAnalysis)
 - ...
 
 ## Publications
@@ -81,5 +80,6 @@ Chinese Academy of Sciences
 
 ## Codes
 
-- ...
+- [thorough-pytorch(datawhale)](https://github.com/datawhalechina/thorough-pytorch)
+- [big-data(datawhale)](https://github.com/shenhao-stu/Big-Data)
 
