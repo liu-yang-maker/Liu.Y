@@ -19,7 +19,7 @@ You can contact me if you are interested via [Zhihu](https://www.zhihu.com/peopl
 
 ## About
 
-Student 
+Ph.D.
 
 Institute of Applied Mathematics
 
@@ -29,17 +29,19 @@ Chinese Academy of Sciences
 
 ### Education
 
- - Ph.D. Mathematics, ? – ?, Academy of Mathematics and Systems Science
-
-   Advisor: Professor Chao Ding
-
- - M.A. Mathematics, 2020 – ?, Academy of Mathematics and Systems Science
+ - Ph.D. Mathematics, 2020 – ?, Academy of Mathematics and Systems Science
 
    Advisor: Professor Chao Ding
 
  - Exchange Student Mathematics, 2019, Michigan State University
+
+   Advisor: Professor Yuehua Cui
+
  - Exchange  Student Mathematics , 2018, University of Alberta
+
  - B.S. Mathematics, 2016 – 2020, Xian Jiaotong University
+
+   Advisor: Professor Jiaqing Yang
 
 ### Research Interests
 
@@ -47,6 +49,7 @@ Chinese Academy of Sciences
 - Big Data Optimization
 - Optimization in machine learning and deep learning
 - Optimization in statistics
+- ...
 
 ### Experience
 
@@ -68,6 +71,8 @@ Chinese Academy of Sciences
   - [big-data](https://github.com/shenhao-stu/Big-Data)
   - [Pages of big-data](https://shenhao-stu.github.io/Big-Data)
   - [matrix-analysis](https://github.com/datawhalechina/team-learning-data-mining/tree/master/MatrixAnalysis)
+  - optimization-algorithm
+  - ...
 - ...
 
 ## Publications
