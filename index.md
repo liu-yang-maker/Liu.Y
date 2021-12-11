@@ -45,6 +45,7 @@ Chinese Academy of Sciences
 
 ### Research Interests
 
+- Deep Learning
 - Matrix Optimization with applications
 - Big Data Optimization
 - Optimization in machine learning and deep learning
@@ -62,6 +63,8 @@ Chinese Academy of Sciences
 
 - Chairman of the Student Union, School of Mathematical Sciences, Chinese Academy of Sciences, 2020-2021
 
+- SIAM Member
+
 - Datawhale Member 
   - [unusual-deep-learning](https://github.com/datawhalechina/unusual-deep-learning)
   - [Pages of unusual-deep-learning](https://datawhalechina.github.io/unusual-deep-learning)
@@ -71,8 +74,9 @@ Chinese Academy of Sciences
   - [big-data](https://github.com/shenhao-stu/Big-Data)
   - [Pages of big-data](https://shenhao-stu.github.io/Big-Data)
   - [matrix-analysis](https://github.com/datawhalechina/team-learning-data-mining/tree/master/MatrixAnalysis)
-  - optimization-algorithm
-  - ...
+  - optimization-algorithm(for Machine Learning)
+  - operational-research
+  - [beamer-datawhalestyle](https://github.com/liu-yang-maker/datawhale-beamer-zh-CN)
 - ...
 
 ## Publications
@@ -87,4 +91,5 @@ Chinese Academy of Sciences
 
 - [thorough-pytorch(datawhale)](https://github.com/datawhalechina/thorough-pytorch)
 - [big-data(datawhale)](https://github.com/shenhao-stu/Big-Data)
+- [beamer(datawhale)](https://github.com/liu-yang-maker/datawhale-beamer-zh-CN)
 
