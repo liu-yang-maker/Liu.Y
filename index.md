@@ -96,3 +96,8 @@ Chinese Academy of Sciences
 - [thorough-pytorch(datawhale)](https://github.com/datawhalechina/thorough-pytorch)
 - [big-data(datawhale)](https://github.com/shenhao-stu/Big-Data)
 - [beamer(datawhale)](https://github.com/liu-yang-maker/datawhale-beamer-zh-CN)
+- [machine-learning](https://github.com/liu-yang-maker/Code-Machine-Learning)
+- [deep-learning](https://github.com/liu-yang-maker/Code-Deep-Learning)
+- [optimization-algorithm](https://github.com/liu-yang-maker/Code-Optimization-Algorithm)
+
+- [Code-Intelligent-Algorithm](https://github.com/liu-yang-maker/Code-Intelligent-Algorithm)
