@@ -99,5 +99,5 @@ Chinese Academy of Sciences
 - [machine-learning](https://github.com/liu-yang-maker/Code-Machine-Learning)
 - [deep-learning](https://github.com/liu-yang-maker/Code-Deep-Learning)
 - [optimization-algorithm](https://github.com/liu-yang-maker/Code-Optimization-Algorithm)
+- [intelligent-algorithm](https://github.com/liu-yang-maker/Code-Intelligent-Algorithm)
 
-- [Code-Intelligent-Algorithm](https://github.com/liu-yang-maker/Code-Intelligent-Algorithm)
