@@ -19,8 +19,6 @@ You can contact me if you are interested via [Zhihu](https://www.zhihu.com/peopl
 
 ## About
 
-Ph.D.
-
 Institute of Applied Mathematics
 
 Academy of Mathematics and Systems Science
@@ -29,7 +27,7 @@ Chinese Academy of Sciences
 
 ### Education
 
- - Ph.D. Mathematics, 2020 – ?, Academy of Mathematics and Systems Science
+ - M.S. Mathematics, 2020 – present, Academy of Mathematics and Systems Science
 
    Advisor: Professor Chao Ding
 
