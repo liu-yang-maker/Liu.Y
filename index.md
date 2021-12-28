@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Liu.Y</h1>
-      <p><b>研究生</b></p>
+      <p><b></b></p>
       <p><b>中国科学院数学与系统科学研究院</b></p>
       <p><b>邮箱：1668210218@qq.com</b></p>
       <p><b>地址：北京市海淀区中关村，邮编000000</b></p>
@@ -29,17 +29,19 @@ Chinese Academy of Sciences
 
  - M.S. Mathematics, 2020 – present, Academy of Mathematics and Systems Science
 
-   Advisor: Professor Chao Ding
+   Supervisor:  Professor Chao Ding
 
  - Exchange Student Mathematics, 2019, Michigan State University
 
-   Advisor: Professor Yuehua Cui
+   Supervisor:  Professor Yuehua Cui
 
  - Exchange  Student Mathematics , 2018, University of Alberta
 
+   Supervisor:  Professor Eric Woolgar
+
  - B.S. Mathematics, 2016 – 2020, Xian Jiaotong University
 
-   Advisor: Professor Jiaqing Yang
+   Supervisor:  Professor Hui Li/Jiaqing Yang
 
 ### Research Interests
 
@@ -52,10 +54,42 @@ Chinese Academy of Sciences
 
 ### Experience
 
-- 新东方(西安), Data Analyst, 2019
-- 共识资本, Data Analyst, 2020
-- Xiaomi, Data Analyst-Financial quantification, 2021
+- 新东方(Xi'an), 2019
+- S. Capital, Data Analyst, 2020.1-2020.4.
+- Research Assistant, Imagine Group, Xi'an Jiaotong University, 2019.6-2020.6.
+- Xiaomi, Data Analyst-Financial quantification, 2021.5-2021.9
 - ...
+
+### Awards
+
+- Outstanding Student Cadre, Academy of Mathematics and Systems Science of Chinese Academy of Sciences, 2021.
+- Merit Student, Academy of Mathematics and Systems Science of Chinese Academy of Sciences, 2021.
+- Freshman Scholarship, Academy of Mathematics and Systems Science of Chinese Academy of Sciences, 2021.
+- Outstanding Graduates Award, Xi'an Jiaotong University, 2020.
+- Outstanding Student Leaders Award, Xi'an Jiaotong University, 2020.
+- Outstanding Students Award, Xi'an Jiaotong University, 2019, 2020.
+- Zhufeng Scholarship, Xi'an Jiaotong University, 2019.
+- First Prize of National College Student Innovation and Entrepreneurship Training Program, 2018.
+- M prize of American Undergraduate Mathematical Contest in Modeling, 2018.
+- First Prize of China Undergraduate Mathematical Contest in Modeling, 2017.
+
+### Research Project
+
+- Statistical identification of genetic variants associated with Alzheimer's disease
+
+  Michigan State University, 1/2019 - 5/2019
+
+- Willmore conjecture
+
+  University of Alberta, 7/2018 - 8/2018
+
+- Image edge recognition based on stochastic resonance
+
+  Xi'an JiaoTong University, 5/2018 - 11/2018
+
+- How to optimize oil spill alarm algorithms and reduce false positive rates
+
+  Academy of Mathematics and Systems Science, 2021.9 - Now
 
 ### Activities
 
@@ -75,19 +109,7 @@ Chinese Academy of Sciences
   - optimization-algorithm(for Machine Learning)
   - operational-research
   - [beamer-datawhalestyle](https://github.com/liu-yang-maker/datawhale-beamer-zh-CN)
-- ...
-
-## Publications
-
-- ...
-
-## Grants
-
-- ...
-
-## Talks
-
-- ...
+- 公众号：鸣也的小屋、优化算法交流地
 
 ## Codes
 
