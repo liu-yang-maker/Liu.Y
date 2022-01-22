@@ -27,7 +27,7 @@ Chinese Academy of Sciences
 
 ### Education
 
- - M.S. Mathematics, 2020 – present, Academy of Mathematics and Systems Science
+ - Ph.D. Mathematics, 2020 – present, Academy of Mathematics and Systems Science
 
    Supervisor:  Professor Chao Ding
 
