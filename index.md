@@ -29,11 +29,11 @@ Chinese Academy of Sciences
 
  - Ph.D. Mathematics, 2020 – present, Academy of Mathematics and Systems Science
 
-   Supervisor:  Professor Chao Ding
+   Supervisor:  [Professor Chao Ding](http://www.dingchao.info) & [Professor Yangjin Zhang](https://sites.google.com/view/yangjingzhang/)
 
  - Exchange Student Mathematics, 2019, Michigan State University
 
-   Supervisor:  Professor Yuehua Cui
+   Supervisor:  [Professor Yuehua Cui](https://www.stt.msu.edu/~cui/)
 
  - Exchange  Student Mathematics , 2018, University of Alberta
 
@@ -41,7 +41,7 @@ Chinese Academy of Sciences
 
  - B.S. Mathematics, 2016 – 2020, Xian Jiaotong University
 
-   Supervisor:  Professor Hui Li/Jiaqing Yang
+   Supervisor:  [Professor Hui Li](http://gr.xjtu.edu.cn/web/lihui10 ) & [Professor Jiaqing Yang](http://gr.xjtu.edu.cn/web/jiasky )
 
 ### Research Interests
 
