@@ -27,7 +27,11 @@ Chinese Academy of Sciences
 
 ### Education
 
- - Ph.D. Mathematics, 2020 – present, Academy of Mathematics and Systems Science
+ - Ph.D. Mathematics, 2022 – present, Academy of Mathematics and Systems Science
+
+   Supervisor:  [Professor Chuan Zhou]
+
+ - Ph.D. Mathematics, 2020 – 2022, Academy of Mathematics and Systems Science
 
    Supervisor:  [Professor Chao Ding](http://www.dingchao.info) & [Professor Yangjin Zhang](https://sites.google.com/view/yangjingzhang/)
 
@@ -46,6 +50,7 @@ Chinese Academy of Sciences
 ### Research Interests
 
 - Deep Learning
+- Graph Embedding and Graph Nerual Networks
 - Matrix Optimization with applications
 - Big Data Optimization
 - Optimization in machine learning and deep learning
@@ -58,6 +63,9 @@ Chinese Academy of Sciences
 - S. Capital, Data Analyst, 2020.1-2020.4.
 - Research Assistant, Imagine Group, Xi'an Jiaotong University, 2019.6-2020.6.
 - Xiaomi, Data Analyst-Financial quantification, 2021.5-2021.9
+- SenceTime, AGI-NLP, 2022.1-2022.3
+<!-- - BAAI, AI for science Researcher, 2022.3- -->
+<!-- - Baidu, Researcher, 2022.8.1- -->
 - ...
 
 ### Awards
@@ -73,23 +81,9 @@ Chinese Academy of Sciences
 - M prize of American Undergraduate Mathematical Contest in Modeling, 2018.
 - First Prize of China Undergraduate Mathematical Contest in Modeling, 2017.
 
-### Research Project
+### Research Project/Publication
 
-- Statistical identification of genetic variants associated with Alzheimer's disease
 
-  Michigan State University, 1/2019 - 5/2019
-
-- Willmore conjecture
-
-  University of Alberta, 7/2018 - 8/2018
-
-- Image edge recognition based on stochastic resonance
-
-  Xi'an JiaoTong University, 5/2018 - 11/2018
-
-- How to optimize oil spill alarm algorithms and reduce false positive rates
-
-  Academy of Mathematics and Systems Science, 2021.9 - Now
 
 ### Activities
 
