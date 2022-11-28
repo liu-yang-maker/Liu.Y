@@ -8,7 +8,8 @@
       <p><b>地址：北京市海淀区中关村，邮编000000</b></p>
     </td>
     <td width="25%">
-      <img src="person-pic.png" width="100%">      % 假装是证件照
+      <img src="person-pic.png" width="100%"> 
+      <img src="yang.jpg" width="100%">      % 就是证件照
     </td>
   </tr>
 </table>
@@ -29,7 +30,7 @@ Chinese Academy of Sciences
 
  - Ph.D. Mathematics, 2022 – present, Academy of Mathematics and Systems Science
 
-   Supervisor:  [Professor Chuan Zhou]
+   Supervisor:  [Professor Chuan Zhou]() & [Zhiming Ma]()
 
  - Ph.D. Mathematics, 2020 – 2022, Academy of Mathematics and Systems Science
 
@@ -50,23 +51,44 @@ Chinese Academy of Sciences
 ### Research Interests
 
 - Deep Learning
+- Knowledge Graph and Reasoning
 - Graph Embedding and Graph Nerual Networks
 - Matrix Optimization with applications
-- Big Data Optimization
 - Optimization in machine learning and deep learning
 - Optimization in statistics
 - ...
 
 ### Experience
 
-- 新东方(Xi'an), 2019
+- New Oriental Education (Xi'an), 2019
 - S. Capital, Data Analyst, 2020.1-2020.4.
 - Research Assistant, Imagine Group, Xi'an Jiaotong University, 2019.6-2020.6.
 - Xiaomi, Data Analyst-Financial quantification, 2021.5-2021.9
 - SenceTime, AGI-NLP, 2022.1-2022.3
-<!-- - BAAI, AI for science Researcher, 2022.3- -->
-<!-- - Baidu, Researcher, 2022.8.1- -->
+- BAAI, AI for science Researcher, supervisor: Qiwei Ye, Jie Fu and Wenhao Huang, 2022.3-2022.8
+- Baidu, Researcher, supervisor: Huang Fang and Yunfeng Cai, 2022.8-Now
 - ...
+
+
+### Academy Service
+
+- Reviewer
+  - Conference: ICASSP
+
+### Talk
+
+- XJTU, AMSS/CAS, XMU
+- BAAI, Baidu Research
+
+
+
+
+
+
+
+
+
+
 
 ### Awards
 
@@ -80,9 +102,6 @@ Chinese Academy of Sciences
 - First Prize of National College Student Innovation and Entrepreneurship Training Program, 2018.
 - M prize of American Undergraduate Mathematical Contest in Modeling, 2018.
 - First Prize of China Undergraduate Mathematical Contest in Modeling, 2017.
-
-### Research Project/Publication
-
 
 
 ### Activities
