@@ -33,7 +33,8 @@ Chinese Academy of Sciences
 
  - Ph.D. Mathematics, 2022 – present, Academy of Mathematics and Systems Science
 
-   Supervisor:  [Professor Chuan Zhou]() & [Zhiming Ma]()
+   Supervisor:  [Professor Chuan Zhou]()
+    <!-- & [Zhiming Ma]() -->
 
  - Ph.D. Mathematics, 2020 – 2022, Academy of Mathematics and Systems Science
 
@@ -131,4 +132,30 @@ Chinese Academy of Sciences
 - [python](https://github.com/liu-yang-maker/Code-Python)
 - [matlab](https://github.com/liu-yang-maker/Code-Matlab)
 - [bio-stat](https://github.com/liu-yang-maker/Code-Bio-Statistics)
+
+
+
+<!-- ## Papers -->
+
+<!-- 
+@article{LI2023104833,
+title = {Development of a mixed reality method for underground pipelines in digital mechanics experiments},
+journal = {Tunnelling and Underground Space Technology},
+volume = {132},
+pages = {104833},
+year = {2023},
+issn = {0886-7798},
+doi = {https://doi.org/10.1016/j.tust.2022.104833},
+url = {https://www.sciencedirect.com/science/article/pii/S0886779822004734},
+author = {Wei Li and Yajian Wang and Hailu Yang and Zhoujing Ye and Pengpeng Li and Yang {Aron Liu} and Linbing Wang}
+} -->
+
+
+<!-- @misc{
+lai2023does,
+title={Does Structural Information have been Fully Exploited in Graph Data?},
+author={Xin Lai and Yang Aron Liu and Rui Qian and Yong Lin and Qiwei Ye},
+year={2023},
+url={https://openreview.net/forum?id=fH4xGeqdgLb}
+} -->
 
